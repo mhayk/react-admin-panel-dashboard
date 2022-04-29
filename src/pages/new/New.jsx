@@ -1,4 +1,4 @@
-import 'login.scss'
+import './new.scss'
 
 const New = () => {
     return (
